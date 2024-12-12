@@ -1,4 +1,4 @@
-= MIC Core Specification
+= SSP Specification
 :sectnums:
 :sectnumlevels: 5
 :sectlinks:
@@ -14,15 +14,15 @@
 :nofooter:
 :icons: font
 
-include::docs/0___preamble.adoc[]
+include::0___preamble.adoc[]
 
-include::docs/1___overview.adoc[]
+include::1___overview.adoc[]
 
-include::docs/2___core_attributes.adoc[]
+include::2___core_attributes.adoc[]
 
-include::docs/3___conformance.adoc[]
+include::3___conformance.adoc[]
 
-include::docs/4___literature.adoc[]
+include::4___literature.adoc[]
 
-include::docs/A___mapping_srmd.adoc[]
+include::A___mapping_srmd.adoc[]
 
