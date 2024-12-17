@@ -14,7 +14,7 @@ The SRMD format allows to specify any metadata or other attributes in the form o
 The format description also specifies where this metadata file should be stored in an FMU or SSP archive.
 The SSP Traceability specification is a normative reference for this appendix.
 
-=== Maping of MIC-Core attributes to the SRMD format
+=== Maping of MIC-Core Attributes to the SRMD format
 
 The `type` attribute of the `Classification` element must be specified as `org.mic-core.mic-core`.
 This `Classification` element must only contain `ClassificationEntry` elements with `keyword` attributes from the following table.
