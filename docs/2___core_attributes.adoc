@@ -247,11 +247,6 @@ Obligation and Level:: Level 1 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Simulation Task Confidentiality Level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
-Example:
-CSC-0: public
-CSC-1: internal
-CSC-2: confidential
-CSC-3: strictly confidential
 
 ==== Simulation Task Creator Name
 
@@ -464,11 +459,6 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Simulation Model Confidentiality Level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
-Example: 
-CSC-0: public
-CSC-1: internal
-CSC-2: confidential
-CSC-3: strictly confidential
 
 ==== Model Quality Requirement
 
@@ -501,11 +491,6 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Parameter Confidentiality Level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
-Examples: 
-CSC-0: public
-CSC-1: internal
-CSC-2: confidential
-CSC-3: strictly confidential
 
 ==== Parameter Quality Requirement
 
@@ -726,11 +711,6 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Simulation Model Confidentiality Level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
-Example:
-CSC-0: public
-CSC-1: internal
-CSC-2: confidential
-CSC-3: strictly confidential
 
 ==== Simulation Model Quality
 
@@ -787,11 +767,6 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Parameter Confidentiality Level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
-Examples: 
-CSC-0: public
-CSC-1: internal
-CSC-2: confidential
-CSC-3: strictly confidential
 
 ==== Parameter Quality
 
@@ -896,11 +871,6 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Test Case Confidentiality Level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
-Example:
-CSC-0: public
-CSC-1: internal
-CSC-2: confidential
-CSC-3: strictly confidential
 
 ==== Test Case Quality
 
