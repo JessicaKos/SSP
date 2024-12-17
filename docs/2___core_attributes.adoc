@@ -491,6 +491,11 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Parameter confidentiality level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
+Examples: 
+CSC-0: public
+CSC-1: internal
+CSC-2: confidential
+CSC-3: strictly confidential
 
 ==== Parameter quality requirement
 
@@ -767,6 +772,11 @@ Obligation and Level:: Level 2 Recommended
 Can have multiple values:: No
 Value examples:: CSC-0: public CSC-1: internal CSC-2: confidential CSC-3: strictly confidential
 Additional explanation and rationale:: The Parameter confidentiality level attribute uses a classification system that specifies how confidential the information contained in the classified document is to be treated. Typically, there is a set of rules that specifies what may and may not be done with a document and the information it contains.
+Examples: 
+CSC-0: public
+CSC-1: internal
+CSC-2: confidential
+CSC-3: strictly confidential
 
 ==== Parameter quality
 
